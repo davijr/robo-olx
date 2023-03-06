@@ -1,0 +1,38 @@
+[
+    {
+        "ativo": true,
+        "titulo": "iPhone 8 256GB Rosé Bateria 100%",
+        "descricao": "Vendo IPhone 8 Rose 256GB\nCâmera OK\nBiometria OK\nWi-Fi OK\nBotão Home OK\nChip OK\nBateria 100%\nSem nenhuma avaria! Tudo perfeito!\n\nEntrega no Shopping da Bahia. Chama no zap: 71 98760-3282",
+        "categorias": ["Eletrônicos e celulares", "Celulares e telefonia"],
+        "outrasInformacoes": [
+            {
+                "elemento": "Marca*",
+                "valor": 2
+            }, {
+                "elemento": "Modelo*",
+                "valor": 18
+            }, {
+                "elemento": "Condição",
+                "valor": 2
+            }, {
+                "elemento": "Memória interna",
+                "valor": 10
+            }, {
+                "elemento": "Cor",
+                "valor": 7
+            }, {
+                "elemento": "Saúde da bateria",
+                "valor": 1
+            }
+        ],
+        "preco": 1500,
+        "fotos": [
+            "C:\\Users\\user\\Imagens\\OLX\\iPhone 8\\01.jpg",
+            "C:\\Users\\user\\Imagens\\OLX\\iPhone 8\\02.jpg",
+            "C:\\Users\\user\\Imagens\\OLX\\iPhone 8\\03.jpg",
+            "C:\\Users\\user\\Imagens\\OLX\\iPhone 8\\04.jpg",
+            "C:\\Users\\user\\Imagens\\OLX\\iPhone 8\\05.jpg",
+            "C:\\Users\\user\\Imagens\\OLX\\iPhone 8\\06.jpg"
+        ]
+    }
+]
